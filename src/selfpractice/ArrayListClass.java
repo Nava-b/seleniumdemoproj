@@ -10,7 +10,7 @@ public class ArrayListClass {
 		ArrayList<String> cars = new ArrayList<String>();
 	    cars.add("navacar");
 	    cars.add("BMWvolvo");
-	    cars.add("Benz");
+	    cars.add("BenzBMW");
 	    cars.add("Tesla");
 	    cars.add("Toyota");
 	    Collections.sort(cars);
