@@ -8,7 +8,7 @@ public class ArrayListClass {
 	public static void main(String[] args) {
 		
 		ArrayList<String> cars = new ArrayList<String>();
-	    cars.add("volvo");
+	    cars.add("navacar");
 	    cars.add("BMW");
 	    cars.add("Benz");
 	    cars.add("Tesla");
