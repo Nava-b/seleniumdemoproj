@@ -10,6 +10,6 @@ public class Factorial {
 			fact = fact * i;
 
 		}
-		System.out.println("Factorialof " + factorialnumber + "  " + "is:" + "" + " " + fact);
+		System.out.println("Factorialof the numbers " + factorialnumber + "  " + "is:" + "" + " " + fact);
 	}
 }
