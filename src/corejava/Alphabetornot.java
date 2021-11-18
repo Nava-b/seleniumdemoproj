@@ -9,7 +9,7 @@ System.out.println("alphabet is chracter: "+alphabet);
 	
 	}
 else
-	System.out.println("alphabet is not character: "+alphabet);
+	System.out.println("alphabet is not a character: "+alphabet);
 
 }
 }
